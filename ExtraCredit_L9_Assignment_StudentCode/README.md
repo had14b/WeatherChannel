@@ -10,13 +10,12 @@ April 19, 2017
 Homer Davis
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project uses an API-centric web application to display information about the weather.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://had14b.github.io/WeatherChannel/ExtraCredit_L9_Assignment_StudentCode/index.html
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. An API-Centric web application is a web application that executes most, if not, all its functionality through the API calls.
+2. Apixu API is a free web service that allows users to obtain weather data for developing weather apps.
+3. Apixu API is a RESTful API that uses JSON over HTTP for requests/returns.
